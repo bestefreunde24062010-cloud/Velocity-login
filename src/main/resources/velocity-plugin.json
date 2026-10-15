@@ -1,7 +1,0 @@
-{
-  "id": "userlogin",
-  "name": "UserLogin",
-  "version": "1.0.0",
-  "authors": ["DeinName"],
-  "main": "dein.package.UserLoginPlugin"
-}
